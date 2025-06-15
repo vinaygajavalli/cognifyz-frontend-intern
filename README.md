@@ -12,23 +12,41 @@
 ## 📂 Project Structure
 cognifyz-frontend-intern/
 ├── level1/
+
 │ ├── index.html
+
 │ └── styles.css
+
 ├── level2/
+
 │ ├── index.html
+
 │ ├── styles.css
+
 │ └── script.js
+
 ├── level3/
+
 │ ├── index.html
+
 │ ├── style.css
+
 │ ├── script.js
+
 │ └── images/
+
 │ ├── search.png
+
 │ ├── humidity.png
+
 │ ├── wind.png
+
 │ └── rain.png
+
 ├── settings.json
+
 └── README.md
+
 
 markdown
 Copy
